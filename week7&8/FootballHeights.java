@@ -12,6 +12,7 @@ public class FootballHeights {
     }
     //aa
 
+
     // Method to find mean
     public static double getMean(int[] arr) {
         return (double) getSum(arr) / arr.length;
